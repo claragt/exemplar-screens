@@ -13,7 +13,7 @@ var data = {
         "note": "Search results."
       },{
         "caption": "Property information",
-        "imgref": "images//get-property-information/3.5-Granary-Avenue-Dorchester-DT14YY.png"
+        "imgref": "images/get-property-information/3.5-Granary-Avenue-Dorchester-DT14YY.png",
         "note": [
         	"A page for every registered property on GOV.UK.",
         	"Anyone can view this without payment or verifying their identity."
